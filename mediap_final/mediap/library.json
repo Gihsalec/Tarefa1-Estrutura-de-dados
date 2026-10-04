@@ -1,0 +1,84 @@
+{
+  "musicas": [
+    {
+      "id": 1,
+      "titulo": "Rotten to the Core",
+      "artista": "Sofia Carson",
+      "duracao_segundos": 174,
+      "rating": 3,
+      "data_adicao": "2026-09-20"
+    },
+    {
+      "id": 2,
+      "titulo": "like JENNIE",
+      "artista": "Jennie",
+      "duracao_segundos": 123,
+      "rating": 4,
+      "data_adicao": "2026-09-20"
+    },
+    {
+      "id": 3,
+      "titulo": "Manchild",
+      "artista": "Sabrina Carpenter",
+      "duracao_segundos": 123,
+      "rating": 5,
+      "data_adicao": "2026-09-20"
+    },
+    {
+      "id": 4,
+      "titulo": "Toxic",
+      "artista": "Britney Spears",
+      "duracao_segundos": 198,
+      "rating": 5,
+      "data_adicao": "2026-09-20"
+    },
+    {
+      "id": 5,
+      "titulo": "Umbrella",
+      "artista": "Rihanna, Jay-z",
+      "duracao_segundos": 275,
+      "rating": 4,
+      "data_adicao": "2026-09-20"
+    },
+    {
+      "id": 6,
+      "titulo": "Poker Face",
+      "artista": "Lady Gaga",
+      "duracao_segundos": 237,
+      "rating": 3,
+      "data_adicao": "2026-09-20"
+    },
+    {
+      "id": 7,
+      "titulo": "God is Woman",
+      "artista": "Ariana Grande",
+      "duracao_segundos": 197,
+      "rating": 4,
+      "data_adicao": "2026-09-20"
+    },
+    {
+      "id": 8,
+      "titulo": "Gnarly",
+      "artista": "KATSEYE",
+      "duracao_segundos": 197,
+      "rating": 1,
+      "data_adicao": "2026-09-20"
+    },
+    {
+      "id": 9,
+      "titulo": "On The Floor",
+      "artista": "Jennifer Lopez, Pitbull",
+      "duracao_segundos": 284,
+      "rating": 3,
+      "data_adicao": "2026-09-20"
+    },
+    {
+      "id": 10,
+      "titulo": "Rockstar",
+      "artista": "LISA",
+      "duracao_segundos": 138,
+      "rating": 2,
+      "data_adicao": "2026-09-20"
+    }
+  ]
+}
